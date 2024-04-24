@@ -18,7 +18,7 @@ body,html {
 }
 .key {
     cursor: pointer;
-    border: .4rem solid wheat
+    border: .4rem solid wheat;
     border-radius: .5rem;
     margin: 1rem;
     font-size: 1.5rem;
